@@ -1,0 +1,167 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.para{
+    float: inline-start;
+}
+.para{
+    display: inline-flex;
+    font-size: 25px;
+}
+.para1{
+    float: inline-start;
+}
+.para1{
+    display: inline-flex;
+    font-size: 25px;
+}
+.para2{
+    float: inline-start;
+    font-size: 25px;
+}
+.para2{
+    display: inline-flex;
+}
+.para3{
+    float: inline-start;
+}
+.para3{
+    display: inline-flex;
+    font-size: 25px;
+}
+.para4{
+    float: inline-start;
+}
+.para4{
+    display: inline-flex;
+    font-size: 25px;
+}
+.image{
+    border: 100px;
+}
+.param1{
+    margin-left: 50px;
+}
+.circle{
+    background: url(image/darkifysharetemp\ \(12\).jpg);
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    float: left;
+    margin: 30px;
+}
+.header{
+    color: rgb(82, 6, 6);
+}
+.title{
+    margin-top: 30px;
+    color: rgb(190, 127, 82);
+    width: 300px;
+    height: 100px;
+    border: turquoise;
+}
+
+}
+.container{
+    color: rgb(87, 45, 15);
+    background-color: white;
+}
+.reception{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    color: rgb(190, 127, 82);
+}.competition{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    color: rgb(190, 127, 82);
+}
+.smatch{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    color: rgb(190, 127, 82);
+}
+.conference{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    color: rgb(212, 115, 41);
+}
+header{
+    background-image: url("image/Logo\ AEENI\ Alternative.jpg") ;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+.titre {
+    text-align: center;
+    text-indent: 600px;
+    padding-top: 200px;
+    color: rgb(161, 102, 60);
+}
+.au{
+    text-indent: 700px;
+    color: rgb(190, 127, 82);
+}
+.de{
+    text-indent: 800px;
+    color: #d37a3b;
+}
+.grostitre{
+    text-align: center;
+    padding-top: 230px ;
+}
+
+.example{
+    position: relative;
+    padding: 0;
+    width: 300px;
+    display: block;
+    cursor: pointer;
+    overflow: hidden;
+}
+.content{
+    opacity: 0;
+    font-size: 40px;
+    top: 0;
+    left: 0;
+    color: turquoise;
+    background-image: url("image/Logo\ AEENI\ Alternative.jpg");
+    -webkit-transition: all 400ms ease-out;
+    -moz-transition:  all 400ms ease-out;
+    -o-transition:  all 400ms ease-out;
+    -ms-transition:  all 400ms ease-out ;
+    text-align: center;
+}
+.example .content:hover{
+    opacity: 1;
+}
+.example .content .text{
+    height: 0;
+    opacity: 1;
+    transition-delay: 0s;
+    transition-duration: 0.4s;
+
+
+
+}
+.example .content:hover .text{
+    opacity: 1;
+    transform: translateY(250px);
+    -webkit-transform: translateY(250px) ;
+}
+.premier{
+    width: 600px;
+    height: 600px;
+    border-color: cyan;
+    
+}
+.body{
+    background-color: black;
+}
+p{
+    color: brown;
+}
